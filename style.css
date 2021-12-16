@@ -83,12 +83,7 @@ section
 {
     background: #166fe5;
 }
-.trs
-{
-    transition: 200ms cubic-bezier(.08,.52,.52,1) background-color,
-     200ms cubic-bezier(.08,.52,.52,1)
-      box-shadow, 200ms cubic-bezier(.08,.52,.52,1) transform;
-}
+
 .forgotlink a
 {
     line-height: 50px;
